@@ -100,7 +100,7 @@ A high-fidelity **iOS-style interactive prototype** has been created to demonstr
 
 ---
 
-##  Current Implementation (Round 1)
+##  Current Implementation 
 
 - Complaint input and submission  
 - AI-based category and priority prediction (prototype logic)  
@@ -109,7 +109,7 @@ A high-fidelity **iOS-style interactive prototype** has been created to demonstr
 
 ---
 
-##  Planned Enhancements (Round 2 )
+##  Planned Enhancements 
 
 - Real-time department-wise complaint routing  
 - Admin dashboard for officials  
